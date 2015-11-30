@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Ludus]]></title>
         <description><![CDATA[Ludus]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ludus/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 Nov 2015 11:40:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 30 Nov 2015 11:46:31 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ludus/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Getting Started on The Grid]]></title>
+            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><h2>Creating a Site</h2><p>Welcome to The Grid Beta, we’re excited to have you onboard! Here are a few quick tips to get you up and running. </p></article>]]></description>
+            <link>https://thegrid.ai/ludus/getting-started-on-the-grid/index.html</link>
+            <guid isPermaLink="false">b08532cc-28cb-4d0f-8166-9b0312c23262</guid>
+            <pubDate>Mon, 30 Nov 2015 11:46:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>This is a test</p>]]></description>
-            <link>undefinedd370b154-35cc-4aa8-9d0c-216a6dff3749/index.html</link>
+            <link>https://thegrid.ai/ludus/d370b154-35cc-4aa8-9d0c-216a6dff3749/index.html</link>
             <guid isPermaLink="false">d370b154-35cc-4aa8-9d0c-216a6dff3749</guid>
             <pubDate>Mon, 30 Nov 2015 11:40:09 GMT</pubDate>
         </item>
