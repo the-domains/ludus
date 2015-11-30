@@ -2,6 +2,7 @@ name: ludus
 favicon: null
 layout_spectrum: 0.892135730246082
 typography_spectrum: 0.19827008084394038
+title: Ludus
 cta:
   domain: null
   bucket: null
