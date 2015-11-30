@@ -1,7 +1,7 @@
 name: ludus
 favicon: null
-layout_spectrum: 0.892135730246082
-typography_spectrum: 0.19827008084394038
+layout_spectrum: 1
+typography_spectrum: 1
 title: Ludus
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.6585716172121465
-  lightness: 0.8957482622936368
-  saturation: 0.25439405418001115
-  rhythmicContrast: 0.43575793923810124
+    - '#888282'
+    - '#656368'
+    - '#3e2101'
+    - '#b14336'
+    - '#c5825e'
+  brandStrength: 0.5
+  lightness: 0.875
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
